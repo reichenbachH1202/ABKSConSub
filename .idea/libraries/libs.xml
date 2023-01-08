@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jpbc-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jpbc-plaf-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jpbc-crypto-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/sources/jpbc-crypto-2.0.0.zip!/jpbc-crypto/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/sources/jpbc-crypto-2.0.0.zip!/jpbc-crypto/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
